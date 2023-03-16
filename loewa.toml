@@ -1,0 +1,9 @@
+[validator.loewa]
+consensus_public_key = "002cbb1a24b4a59ebc7936740fa280eb613a1031caa50cfa340231f6ffae8eaef0"
+account_public_key = "007b36bfa55b43d1adb15c8cec796b27e60d180136b4326b5fe8ccaf9d616f7d73"
+protocol_public_key = "00eb140fa98cb460e5993ddc6d926aa8f6dd2b785d906b0b97985886f8b2fdcdcc"
+dkg_public_key = "600000006736fbd32ccbafa7e42d5b0056369c8e7c784cc6468bd81e5786b17ebc0cc0475e27e4f98001131561e4803e2ec14003259b30538b2a313081610418f6603ca491965e3cfc0e32b84c4c77aa5875dfe7cfdd8a1fe4bedd425feb543945e0f40f"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "217.115.178.166:26656"
+tendermint_node_key = "00a9eada8494d592941d8ff75a3681bca0083fa7c15d39cb5ed7ab8d72425260d2"
